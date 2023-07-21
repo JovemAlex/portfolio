@@ -22,8 +22,8 @@ function About() {
           typewriter
             .typeString('Desenvolvedor Web Full-Stack!')
             .pauseFor(2500)
-            .deleteChars(25)
-            .typeString('igner Gráfico!')
+            .deleteAll()
+            .typeString('Designer Gráfico!')
             .pauseFor(2500)
             .deleteAll()
             .start();
