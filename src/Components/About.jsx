@@ -30,7 +30,7 @@ function About() {
         }}
       />
 
-      <p className='text-center my-4 w-1/2 font-medium'>Recém formado em Desenvolvimento Web com experiência de 2 anos integral como Designer Gráfico Freelancer.</p>
+      <p className='text-center my-4 w-1/2 font-medium'>Desenvolvedor Web cursando <strong>Análise e Desenvolvimento de Sistemas</strong> com 2 anos de experiência em tempo integral como Designer Gráfico Freelancer.</p>
 
       <div className='flex flex-col items-center'>
         <h3 className='font-semibold'>Algumas Habilidades:</h3>
@@ -51,7 +51,7 @@ function About() {
       </div>
 
       <a
-        href="https://drive.google.com/file/d/1mv3R_Y1lNVY6wkZfIpjHwwZtno5vIICv/view"
+        href="https://drive.google.com/file/d/1v5i7DBEUb7KO_B5GrWqy3T5n1K_JHM2u/view?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className='
