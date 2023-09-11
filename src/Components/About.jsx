@@ -51,7 +51,7 @@ function About() {
       </div>
 
       <a
-        href="https://drive.google.com/file/d/1v5i7DBEUb7KO_B5GrWqy3T5n1K_JHM2u/view?usp=sharing"
+        href="https://drive.google.com/file/d/1r7NqsUQF4D61IDiz_9U2c9d-6ub-nVZX/view?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
         className='
