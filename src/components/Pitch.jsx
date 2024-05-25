@@ -17,9 +17,13 @@ const Pitch = () => {
           <div className="flex flex-col gap-y-2.5">
             <span className="text-lg font-semibold">Links diretos:</span>
             <div className="flex gap-x-8">
-              <Buttom link={'https://google.com'} name={'Download CV'}/>
-              <Buttom link={'https://google.com'} name={'Contact me'}/>
-              <Buttom link={'https://google.com'} name={'Socials'}/>
+
+              <a href="https://drive.google.com/file/d/1r7NqsUQF4D61IDiz_9U2c9d-6ub-nVZX/view?usp=sharing" target="_blank" rel="noreferrer">
+                <Buttom name={'Download CV'}/>
+              </a>
+              
+              <Buttom link={'#contact'} name={'Contact me'}/>
+              <Buttom link={'#contact'} name={'Socials'}/>
             </div>
           </div>
         </div>
@@ -29,7 +33,7 @@ const Pitch = () => {
         
       </div>
 
-      <Buttom link={'https://google.com'} name={'Veja mais'} type="none"/>
+      <Buttom link={'#stacks'} name={'Veja mais'} type="none"/>
 
     </div>
   );

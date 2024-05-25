@@ -3,7 +3,7 @@ import contacts from '../helper/contacts';
 
 function Contacts() {
   return (
-    <div className='flex flex-col items-center justify-center bg-black mt-[100px] p-20 rounded-tr-[100px] rounded-bl-[100px] gap-y-20'>
+    <div className='flex flex-col items-center justify-center bg-black mt-[100px] p-20 rounded-tr-[100px] rounded-bl-[100px] gap-y-20' id='contact'>
 
       <h1 className='text-white font-semibold text-5xl'>Contacts</h1>
 

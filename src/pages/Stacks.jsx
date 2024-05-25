@@ -4,7 +4,7 @@ import stacksArr from '../helper/stacks';
 
 function Stacks() {
   return (
-    <div className=' flex flex-col items-center justify-center bg-black mt-[100px] p-20 rounded-tr-[100px] rounded-bl-[100px]'>
+    <div className=' flex flex-col items-center justify-center bg-black mt-[100px] p-20 rounded-tr-[100px] rounded-bl-[100px]' id='stacks'>
 
       <h1 className='text-white font-semibold text-5xl'>Stacks</h1>
 
